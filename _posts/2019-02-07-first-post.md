@@ -1,5 +1,5 @@
 ---
-tags:
+categories:
 - Blog
 - Me
 ---
