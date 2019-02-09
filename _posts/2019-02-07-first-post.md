@@ -1,4 +1,5 @@
 ---
+title: "First post"
 categories:
 - Blog
 - Me
