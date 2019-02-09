@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "First post"
-excerpt: "Clear the DNS server cache on all domain controllers."
+excerpt: "Hello world"
 date: 2018-09-01
 comments: false
 tags:
