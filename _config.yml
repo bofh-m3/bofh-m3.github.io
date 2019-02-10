@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : Martin Ljungberg
   avatar           : /assets/images/bofh-m3.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : IT Manager with long career in the field. Interested in team building, leadership, automation.
+  bio              : IT Manager with a long career in the field. Interested in team building, leadership, automation.
   location         : Stockholm, Sweden
   email            :
   uri              :
