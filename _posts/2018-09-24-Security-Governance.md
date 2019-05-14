@@ -29,6 +29,7 @@ And to my boss they were these:
 1. Compliance (GDPR)
 2. Theft
 3. Disruption (malware etc.)
+
 I myself would have placed them 1. Disruption, 5. Compliance and 999. Theft. But hey, maybe I'm just naive.
 But I was obviously not able to be objective about the company and its risks. I have after all been here closing in on two decades now... 
 So, I wanted someone external to give it to me straight:
