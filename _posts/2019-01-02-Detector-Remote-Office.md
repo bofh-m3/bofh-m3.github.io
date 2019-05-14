@@ -35,6 +35,7 @@ To be honest, the IT staff back at the off-shoring office is kind of clueless. T
 I decided to monitor on these two things:
 - The latest DHCP lease
 - The percentage of devices that responds to ping
+
 Also, to be fair, there has been major problems with the current firmware for FortiGate, and the Kharkiv branch has had regular firewall crashes due to cpu maxing out at 100% for hours at the time. Fortunately, while waiting for FortiNet to get their shit together and release an updated firmware, we are able to reboot the firewall cluster in Kharkiv remotely to solve the problem temporarily.
 So this detector, unlike the other CURE detectors, actually has actions in the script (notify on [slack](/Slack.html) and reboot firewall)!
 
