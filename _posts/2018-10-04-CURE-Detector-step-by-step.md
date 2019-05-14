@@ -29,6 +29,7 @@ So I want to create a new detector to monitor some sort of system. How do I do?
 1. RDP to the detector host
 2. Open a PowerShell console
 3. Load the necessary [functions and settings](/CURE-Detector-foundation.html) into that PowerShell console
+
 ```powershell
 $rootPath = "E:\CURE"
 
@@ -39,19 +40,26 @@ Import-Module $rootPath\modules\CURE.psm1
 Import-Module $rootPath\modules\ODBC.psm1
 Import-Module $rootPath\modules\Detector.psm1
 ```
+
 4. Create a new detector by running something similar to the below command. The *New-Detector* will copy the *detectorTemplate* into the *detectors* folder and set up all the stuff necessary in the database.
- ```powershell
+ 
+```powershell
 New-Detector -name "My Example Detector"
 ```
+
 5. Open the *MyExampleDetector.ps1* script that was created and modify it to reflect what is to be done in this particular detector. The first thing to do however is to change *$detectorName* to reflect the name of the detector, in our case it should read
+
 ```powershell
 $detectorName = "My Example Detector "
 ```
+
 6. Write whatever needs to be written to make the detector do its job. This is custom for all detectors.
 7. When you're done with your detector, enter the following command, optionally also doing custom settings for *-refreshRate*,  *-detectorEnvironment*, *-heartbeatTimeOut*, *-area* and *-snoozeTime* 
+
 ```powershell
 Set-Detector -name 'My Example Detector' -isActive True
 ```
+
 Here's a screenshot of the commands that have been run in the console.
 
 ![New detector commands](/assets/images/new-detector-commands.png)
