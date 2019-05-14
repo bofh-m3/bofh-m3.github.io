@@ -32,7 +32,7 @@ Anyways, because of *reasons*, all AD passwords must be changed after 90 days. T
 The good thing with sending the password reminders on Slack, is that our Slack setup is *not* SSO, so the login to Slack is totally independent from AD. Therefore the user that, for example, is away on holiday and forgets to change his/her password, able to see the instructions in Slack, and set a new password, even though he/she has been locked out of Outlook. 
 
 I will describe the steps I did for setting up a CURE detector for monitoring the company Password Reminder solution on the *DetectorTeamplate.ps1* described in [CURE-Detector foundation](/CURE-Detector-foundation.html) and the instructions in [CURE-Detector-step-by-step](/CURE-Detector-step-by-step.html).
-The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/RedmineIssues.ps1)
+The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/PasswordReminder.ps1)
 
 #### Approach
 I will not go into detail of the the Password Reminder setup, I might in a future post, but basically there's a script to populate an SQL table with static information, such as what AD users belongs to what Slack user. Also, there's a script to gather all AD user's with expiring passwords, send email and slack to them, and shove the result into an event table in the SQL database. The scripts are run daily, and each run gets it's unique BatchID.
