@@ -22,7 +22,7 @@ CURE - The homebrewed monitoring solution. Read more about it in my previous pos
 - [CURE-GUI](/CURE-GUI.html)
 
 #### Background
-The Swedish branch has been using [Redmine](http://www.redmine.org/) for a long time. Redmine is an open source project management tool, and it has served us well for close to a decade now. Recently we decided to demote it completely for our customer projects in favor of [Atlassian](/Atlassian.html) JIRA/Confluence, since most of the projects were there anyways.
+The Swedish branch has been using [Redmine](http://www.redmine.org/) for a long time. Redmine is an open source project management tool, and it has served us well for close to a decade now. Recently we decided to demote it completely for our customer projects in favor of Atlassian JIRA/Confluence, since most of the projects were there anyways.
 But IT support in the Swedish branch has kept it's support area in Redmine, and since we manage support tickets there, I wanted to monitor it to make sure there were not unanswered tickets laying around.
 
 I will describe the steps I did for setting up a CURE detector for monitoring Redmine project issues based on the *DetectorTeamplate.ps1* described in [CURE-Detector foundation](/CURE-Detector-foundation.html) and the instructions in [CURE-Detector-step-by-step](/CURE-Detector-step-by-step.html).
