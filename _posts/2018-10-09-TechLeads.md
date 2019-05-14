@@ -27,6 +27,7 @@ On the agenda was
 - **Flexible resources**. Basically, have more developers off-shore and in the form of freelancers. I have written more about it [here](/SLM.html).
 - **Partners and technologies**. Identify which partners and what technologies to (not) work with.
 - **CIIPs** (Company Integrated Intellectual Property). Identify re-usable packagings to put on offer. This is harder then it sounds, since the company do tailor made solutions for customers in all type of industries, so creating some sort of one-size-fits-all package is difficult.
+
 We divided ourselves in smaller groups to work on these topics. I and the Danish CTO were paired, and our topic was to dive into *Increase visibility* aka *Hype subjects*. 
 We (me and the Danish CTO) concluded *not* to regurgitate a lot of tech buzzwords, but instead try to envision a process for handling new technology within the company.
 I'm sure the Holding CEO was disappointed by the lack of buzzwords.
@@ -34,19 +35,23 @@ Anyways, we decided that the company need to ask itself these questions when app
 - Will it motivate employees?
 - Is it relevant in the market?
 - Will it grow business?
+
 We decided to describe the stages when a technology is incorporated in the company like this:
 - Digital Business Ecosystems (Technology in production)
 - Emerging Technologies (Hype Cycle Technologies)
 - Technology intelligence (Monitoring and evaluating technologies in use)
+
 And the actions on our topic was to:
 - Define one hype topic within each stage together with the rest of the tech organization
 - Construct a task force that will increase visibility on each of the topics selected.
+
 Big plans!
 Big words!
 As for the other groups I'll just briefly mention their conclusions:
 - The *flexible sourcing* gang talked mainly about maintaining a culture where it's easy to have freelancers and remote teams.
 - The *partners and technologies* crew talked mainly about *how* and *why* to partner up with a vendor. No particular technologies nor potential partnerships were mentioned.
 - The *CIIP* posse talked mainly about tooling and process when *using* a CIIP, for example stuff like NuGet packages, internal Stack Overflow and what not. No actual examples of CIIPs were mentioned, much to the CEOs disappointment I can imagine.
+
 All in all, I think it was a good session.
 We covered a lot of ground and got to know each other.
 We didn't suggest one single thing the top-level management wanted to hear though, and to be honest, nothing we had concluded was really actionable.
