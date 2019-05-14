@@ -28,7 +28,7 @@ CURE - The homebrewed monitoring solution. Read more about it in my previous pos
 The company has an [off-shoring](/SLM.html) office in Kharkiv, Ukraine. I wanted monitoring of the connectivity there in more detail, since they had no local service infrastructure, just a [FortiGate](/FortiGate.html) cluster. The basic network services (DHCP, DNS) was managed over IPSec back in the central [data center](/Consolidated-Data-Center.html).
 
 I will describe the steps I did for setting up a CURE detector for monitoring a company remote office based on the *DetectorTeamplate.ps1* described in [CURE-Detector foundation](/CURE-Detector-foundation.html) and the instructions in [CURE-Detector-step-by-step](/CURE-Detector-step-by-step.html).
-The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/RedmineIssues.ps1)
+The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/RemoteOffice.ps1)
 
 #### Approach
 To be honest, the IT staff back at the off-shoring office is kind of clueless. They take every opportunity they can to blame us when stuff isn't working. So I needed a way to quickly verify that our equipment and services (firewall, ipsec, dhcp, dns) was up and running, and that we had clients in Kharkiv connected.
