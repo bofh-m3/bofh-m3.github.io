@@ -28,7 +28,7 @@ CURE - The homebrewed monitoring solution. Read more about it in my previous pos
 The company needed a unified way to let users manage their passwords in Active Directory, so a couple of years ago I set up (PWM)(https://github.com/pwm-project/pwm), an open source password management solution written in java. PWM has some nice features for self-service password management that suited our needs very well.
 
 I will describe the steps I did for setting up a CURE detector for monitoring health of the company PWM server based on the *DetectorTeamplate.ps1* described in [CURE-Detector foundation](/CURE-Detector-foundation.html) and the instructions in [CURE-Detector-step-by-step](/CURE-Detector-step-by-step.html).
-The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/RedmineIssues.ps1)
+The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/PWMHealth.ps1)
 
 #### Approach
 Since there's an API, available without authentication, for getting health data from PWM, it was simple enough to get what I needed. I decided to also look at the *statistics* end-point, specifically *INTRUDER_ATTEMPTS_DAY*.
