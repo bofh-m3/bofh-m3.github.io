@@ -72,6 +72,7 @@ Cost would most likely be one argument for (or against) going full cloud accordi
 - New business opportunities 
 - Efficiency
 - Quality of the delivery
+
 Regarding, cost, I don't see any savings to be made in our use case. We already have a good life cycle management and utilization of our Data Center. 
 Regarding **risk** (that thing any good management group always *should* consider), except for what's been noted under *security and compliance* and *buy-in*, the only major risk I see is **vendor lock-in**. If we were to put all our eggs in the cozy Microsoft cloud basket, how the hell do we get out of there, once the basket no longer I cozy, but scary, expensive and restrictive?
 Would we consider a multi-cloud approach? Possibly, but that would add to the cost and timeline for sure.
