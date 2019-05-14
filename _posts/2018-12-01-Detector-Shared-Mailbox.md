@@ -25,7 +25,7 @@ CURE - The homebrewed monitoring solution. Read more about it in my previous pos
 - [CURE-GUI](/CURE-GUI.html)
 
 #### Background
-The company has been a long time user of Microsoft [Office365](/office365.html), and the IT team has a shared, impersonalized mailbox for handling subscriptions and stuff.
+The company has been a long time user of Microsoft [Office365](/Office365.html), and the IT team has a shared, impersonalized mailbox for handling subscriptions and stuff.
 However, no one on the team is really inclined to monitor that mailbox for new, and potentially important email (that's actually the *reason* for building CURE in the first place), but still, sometimes important stuff is sent to that mailbox. Therefore, I decided to build a CURE detector for monitoring unread emails.
 Please note! The mailbox is not a *shared mailbox* in the Exchange sense of the word. The user has a real office license since it's also used for other stuff. I call it "Shared Mailbox" since, well, we use it as a shared mailbox. 
 In the future we will probably move it to become a true "shared mailbox", and at that point we'll need to update this detector.
