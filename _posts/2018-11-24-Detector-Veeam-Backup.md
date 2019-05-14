@@ -143,6 +143,7 @@ If (!$Disconnected -and !$Uncollected)
 Veeam objects turned out to be a bit tricky to work with. I had to dig through a lot of documentation and manually going through all properties of the objects to achieve what I wanted:
 - If a job had failed, I wanted to extract which VMs had failed (if any).
 - If a job had not run within a set number of hours, I wanted them to be yellow/red.
+
 These prerequisites turned out to be a bit of a brain twister, hence the large amount of code.
 Row 14-45 deals with the scenario that one or more jobs have not succeeded and/or not ben run within the set amount of time. On row 16-30 I extract the more exact reasons for the unsuccessful job (Get-VBRSession), and also, if available, the specific VMs that have failed and why (Get-VBRBackupSession). Warnings that should be suppressed is dealt with on row 41.
 Row 46-49 deals with the desired outcome, namely all jobs having run successfully within the set time period.
