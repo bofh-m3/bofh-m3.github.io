@@ -66,6 +66,7 @@ The three main components of CDC were
 1.	Infrastructure
 2.	(Information) Security
 3.	Azure
+
 3 bullet points. 
 6 months to complete. 
 Super easy n'est-ce pas?
