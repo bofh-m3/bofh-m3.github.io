@@ -46,6 +46,7 @@ In future posts, I will get Micke to write more details on the GUI parts of CURE
 Part of the environment, of course is the **Development** environment. Neither me nor Micke are *proper* developers, and the thought of source control, deploy pipeline and stuff like coding styles scares us. 
 However, we decided on some coding style ground rules, and also decided to put source control and deploy pipeline on the to-do. 
 Future will tell if we actually get our shit together and set up a proper CI/CD... 
+
 ![CURE Environment](/assets/images/cure-environment.png)
 
 ## The process

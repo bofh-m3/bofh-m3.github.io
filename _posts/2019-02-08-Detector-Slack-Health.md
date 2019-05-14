@@ -111,8 +111,11 @@ On rows 31-37 the scenario where there is no active alerts is handled.
 
 #### Result
 Here's how the detector would look in the UI with a couple of active alerts.
+
 ![Detector slack health overview](/assets/images/detector-slack-health-overview.png)
+
 And if you click the headline you get the details of the alerts.
+
 ![Detector slack health details](/assets/images/detector-slack-health-details.png)
 
 

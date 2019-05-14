@@ -53,7 +53,9 @@ $detectorName = "My Example Detector "
 Set-Detector -name 'My Example Detector' -isActive True
 ```
 Here's a screenshot of the commands that have been run in the console.
+
 ![New detector commands](/assets/images/new-detector-commands.png)
+
 8. But of course the detector right now is just a dead script and won't run unless **scheduled**. So let's do that.
 - Open **Task Scheduler** and create a *Basic Task*
 - Name it for example "Detector My Example Detector"

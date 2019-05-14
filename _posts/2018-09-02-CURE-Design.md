@@ -26,8 +26,11 @@ And last, but not least, I want to put this up on a wall mounted monitor at each
 
 ## The Design
 I previously had built a monitoring system entirely in PowerShell that basically outputted static HTML for consumption in a browser (set to auto refresh). I want to keep the good things about that system (easy to modify/extend) but make it more flexible and easier to maintain and less resource intensive. The previous version was an exercise in module-writing and runspaces, so I want CURE to be simpler.
+
 ![CURE Design](/assets/images/cure_design.png)
+
 I also made a drawing with pointers to how I imagined the UI to look.
+
 ![CURE UI Design](/assets/images/cure-ui-design.png)
 
 ## The components
@@ -48,6 +51,7 @@ Primarily a browser but possibly something else later.
 ## The GUI
 In logged in mode you're supposed to be able to click the headline of a detector and get more info (that may contain sensitive information and therefore must be tucked away behind a login). In logged out mode you'll only able to see the color of the detectors and a short summery. This mode is supposed to be truly public and available for anyone. This would also be the mode that a wall mounted monitor would show. The overview.
 On the top bar you're able to filter on detectors for a specific area, for example "Azure" or "Helpdesk".
+
 ![CURE UI](/assets/images/cure-ui.png)
 
 I plan to make a series of posts on CURE with more details and some learnings.

@@ -112,8 +112,11 @@ On rows 29-39 the *$localEvent* object is populated with values ready to be shov
 
 #### Result
 Here's how the detector would look in the UI with a couple of late issues.
+
 ![Detector redmine issues overview](/assets/images/detector-redmine-issues-overview.png)
+
 And if you click the headline you get the details of the detected issues.
+
 ![Detector redmine issues details](/assets/images/detector-redmine-issues-details.png)
 
 

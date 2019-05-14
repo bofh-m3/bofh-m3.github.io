@@ -128,8 +128,11 @@ In the *ANALYZE* section, on rows 12-18, I filter out the alarms I don't care ab
 
 #### Result
 Here's how the detector would look in the UI with unacknowledged alarms.
+
 ![Detector imc overview](/assets/images/detector-imc-overview.png)
+
 And if you click the headline you get the details of the events.
+
 ![Detector imc details](/assets/images/detector-imc-details.png)
 
 

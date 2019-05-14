@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CURE - PWM Health"
+title: "CURE - Detector PWM Health"
 excerpt: "CURE - The homebrewed monitoring solution. In this post I'll describe the steps for setting up a detector monitoring PWM health."
 date: 2019-01-06
 comments: true
@@ -134,8 +134,11 @@ On rows 18-25 I loop through *$report* and set a status for each alert and on ro
 
 #### Result
 Here's how the detector would look in the UI with a warning.
+
 ![Detector PWM health overview](/assets/images/detector-pwm-health-overview.png)
+
 And if you click the headline you get the details of current alerts.
+
 ![Detector PWM health details](/assets/images/detector-pwm-health-details.png)
 
 

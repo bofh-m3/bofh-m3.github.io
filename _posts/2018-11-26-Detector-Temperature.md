@@ -84,8 +84,11 @@ On rows 10-17 I fill the *localEvent* object with the results, ready to be shove
 
 #### Result
 Here's how the detector would look in the UI with a warning.
+
 ![Detector temperature overview](/assets/images/detector-temperature-overview.png)
+
 And if you click the headline you get the details of the historic readings.
+
 ![Detector temperature details](/assets/images/detector-temperature-details.png)
 
 

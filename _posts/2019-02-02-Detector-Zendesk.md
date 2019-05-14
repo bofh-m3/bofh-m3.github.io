@@ -123,8 +123,11 @@ On rows 13-18 the *$report* object is looped to set status for each ticket and o
 
 #### Result
 Here's how the detector would look in the UI with some unanswered (late) tickets.
+
 ![Detector zendesk overview](/assets/images/detector-zendesk-overview.png)
+
 And if you click the headline you get the details of the current open tickets.
+
 ![Detector zendesk details](/assets/images/detector-zendesk-details.png)
 
 

@@ -164,8 +164,11 @@ In the *ANALYZE* section I basically just calculate the number of different even
 
 #### Result
 Here's how the detector would look in the UI with unacknowledged alarms.
+
 ![Detector 3par overview](/assets/images/detector-3par-overview.png)
+
 And if you click the headline you get the details of the events.
+
 ![Detector 3par details](/assets/images/detector-3par-details.png)
 
 

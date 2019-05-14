@@ -139,8 +139,11 @@ Worth noticing, on rows 41-42 I truncate how many broken services to be displaye
 
 #### Result
 Here's how the detector would look in the UI with a couple of active incidents (during the last 2 months, I have seen it green only once...)
+
 ![Detector o365health overview](/assets/images/detector-o365-health-overview.png)
+
 And if you click the headline you get the details of the current incidents.
+
 ![Detector o365health details](/assets/images/detector-o365-health-details.png)
 
 

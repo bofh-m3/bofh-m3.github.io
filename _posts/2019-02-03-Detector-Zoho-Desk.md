@@ -105,8 +105,11 @@ On rows 25-37 the over all status is set, *$localEvent* object is populated with
 
 #### Result
 Here's how the detector would look in the UI with some unanswered (late) tickets.
+
 ![Detector zoho desk overview](/assets/images/detector-zoho-desk-overview.png)
+
 And if you click the headline you get the details of the current open tickets.
+
 ![Detector zoho desk details](/assets/images/detector-zoho-desk-details.png)
 
 

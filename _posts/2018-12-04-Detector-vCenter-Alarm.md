@@ -122,8 +122,11 @@ On rows 23-45 the *$localEvent* object is populated with data, preparing it to b
 
 #### Result
 Here's how the detector would look in the UI with a couple of printers low on toner.
+
 ![Detector vcenter alarm overview](/assets/images/detector-vcenter-alarm-overview.png)
+
 And if you click the headline you get the details of the detected alarms.
+
 ![Detector vcenter alarm details](/assets/images/detector-vcenter-alarm-details.png)
 
 

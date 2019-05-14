@@ -203,8 +203,11 @@ On rows 14-25 I set the overall status, populate the *$localEvent* object with d
 
 #### Result
 Here's how the detector would look in the UI with an IML warning.
+
 ![Detector ilo overview](/assets/images/detector-ilo-overview.png)
+
 And if you click the headline you get the details.
+
 ![Detector ilo details](/assets/images/detector-ilo-details.png)
 
 

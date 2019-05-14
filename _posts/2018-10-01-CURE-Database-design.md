@@ -59,6 +59,7 @@ Of course, we need a table to store the actual event data produced by the detect
 - **snoozedBy:** The person who pushed the snooze button.
 
 This is how one single detector looks in the UI
+
 ![Detector](/assets/images/detector.png)
 
 And the query to set up the table.
@@ -82,6 +83,7 @@ Since each detector event is based on x rows of source data, we also wanted a wa
 - ** descriptionDetails:** The actual details of the event.
 
 This is how the details of a detector event would look in the UI, when you've clicked the headline of a detector in the landing page.
+
 ![Event description](/assets/images/event-description.png)
 
 And the query to set it up.
@@ -92,7 +94,8 @@ CREATE TABLE eventDescriptionTable (
   contentType VARCHAR(50),
   descriptionDetails TEXT,
   PRIMARY KEY (eventDescriptionID,eventID)
-);```
+);
+```
 
 In future posts I will describe more details on the setup of the detector environment, UI and API.
 

@@ -147,8 +147,11 @@ On rows 18-30, the firewall is rebooted using the [Posh-SSH](https://www.powersh
 
 #### Result
 Here's how the detector would look in the UI with a warning.
+
 ![Detector remote office overview](/assets/images/detector-remote-office-overview.png)
+
 And if you click the headline you get the details of current leases.
+
 ![Detector remote office details](/assets/images/detector-remote-office-details.png)
 
 

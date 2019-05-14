@@ -183,8 +183,11 @@ On rows 75-85 I set the overall status and populate *$localEvent*, making it rea
 
 #### Result
 Here's how the detector would look in the UI with some alerts for detected security threats.
+
 ![Detector netskope overview](/assets/images/detector-netskope-overview.png)
+
 And if you click the headline you get the details of the alerts.
+
 ![Detector netskope details](/assets/images/detector-netskope-details.png)
 
 

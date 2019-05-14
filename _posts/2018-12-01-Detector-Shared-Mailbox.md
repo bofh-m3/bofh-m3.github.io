@@ -140,8 +140,11 @@ On rows 9-11 the status (red/yellow/green) is set based on when the email was re
 
 #### Result
 Here's how the detector would look in the UI with a warning.
+
 ![Detector shared mailbox overview](/assets/images/detector-shared-mailbox-overview.png)
+
 And if you click the headline you get the details of the unread mail.
+
 ![Detector shared mailbox details](/assets/images/detector-shared-mailbox-details.png)
 
 

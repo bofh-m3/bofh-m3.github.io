@@ -101,8 +101,11 @@ On rows 11-22 the over all status is set and *$localEvent* is populated with the
 
 #### Result
 Here's how the detector would look in the UI with outdated endpoints and endpoints in *bypass* mode.
+
 ![Detector cbd endpoints overview](/assets/images/detector-cbd-endpoints-overview.png)
+
 And if you click the headline you get the details of the alerts.
+
 ![Detector cbd endpoints details](/assets/images/detector-cbd-endpoints-details.png)
 
 

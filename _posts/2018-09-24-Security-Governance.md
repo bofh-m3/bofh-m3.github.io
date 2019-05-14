@@ -40,7 +40,9 @@ I cannot even begin to describe how underwhelmed I was by that audit!
 Paying through the nose to have someone interview you while taking notes, only to give you a report reciting the exact words you have told them! To add insult to injury, I had to nag them daily for their crap report, being very explicit on how time was of the essence. And finally, 4 weeks after the set date, I received the not-even-good-for-toilet-paper report.
 I encouraged them to go fuck themselves. 
 Well it was not only because of their crappy so-called audit report, but the CEO of that company also tried to poach members of my team. When the first one declined, he actually went and asked the next one! In my book, you don't fucking try to steal your customers' employees! I've met a lot of slimy and incompetent providers over the years, but this one takes the cake. 
+
 ![Cartoon villain](/assets/images/cartoon-villain.jpg)
+
 Anyway. 
 We were back to square one on the audit front.
 Again, Fredrik pulled someone from his sleeve. 
@@ -52,7 +54,9 @@ So, I asked Fredrik to set us up for a meeting.
 
 ## The preparation
 Before we met up with our soon-to-be new InfoSec partner, the team and I had produced a document outlining the different attack vectors I could think of, and my suggested tooling for mitigation.
+
 ![Attacks and vectors](/assets/images/attacks-and-vectors.png)
+
 I will not go into detail on all the areas and tooling suggestions I had put on paper, but I will share the headlines in the document for some nice buzzwords; MDM, Self-Service security and compliance, Application security, Vulnerability scanning, Anti-malware (FirstGen/NextGen/Hypervisor), Firewall UTM/NGFW, PenTests, Monitoring (Health, anomalies, forensics, trends), PII Detection, DLP, CASB, White hat disclosures (BugBounty), Wired/WiFi security, Authentication/Authorization, Perimeter security, Physical security, Data encryption, Hardware encryption, Threat Assessments, Backup and D/R, Outer perimeter protection, whaling, phishing, IT-personnel protection and auditing, targeted attacks, social engineering, whistle blowing.
 The meeting went off well!
 I felt I received what I wanted from the new InfoSec partner, and I scheduled them in for recurring sessions the upcoming 6 months, right there on the spot.
@@ -104,7 +108,9 @@ When the first draft was done, I handed it over to Fredrik (I had recently given
 ## The implementation
 A beautiful spring day back in early May, just in time for GDPR to go into full effect, the time had finally come to unleash the Security Governance policies upon our unsuspecting co-workers.
 The boss, with my blessing, took the honors. 
+
 ![Unleash dogs](/assets/images/unleash-dogs.jpg)
+
 She had already primed the top-management group and engaged a *communicator* to make the text in the communique as warm, fuzzy and exciting as possible.
 The copy turned out good. Well as good as it gets, when talking about a subject so boring to most people, it would set a rave going 19-year-old pumped full of amphetamines right to sleep within a couple of seconds, if it was to be read to him. 
 And I think a couple of our employees actually read it once it was posted up on the intranet!

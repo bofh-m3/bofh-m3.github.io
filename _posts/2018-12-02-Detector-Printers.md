@@ -32,6 +32,7 @@ The whole detector script can be found [here](https://github.com/bofh-m3/CURE/bl
 Micke, my colleague had written script to parse out the current toner level readings from the printers' web interface (as per usual no API or CLI is available, that's kind of default for office machinery...), and together we made a CURE detector out of it. 
 Luckily all models we have has the same crappy web interface, so we could re-use the parsing code at least. 
 Here's an image of the stuff we wanted to retrieve from the printer web ui.
+
 ![detector printer web ui](/assets/images/detector-printer-web-ui.png)
 
 #### LOCAL SETTINGS, FUNCTIONS AND DEPENDENCIES
@@ -115,8 +116,11 @@ In the *ANALYZE* section of the script, we loop trough the report to validate if
 
 #### Result
 Here's how the detector would look in the UI with a couple of printers low on toner.
+
 ![Detector printers overview](/assets/images/detector-printers-overview.png)
+
 And if you click the headline you get the details of the unread mail.
+
 ![Detector printers details](/assets/images/detector-printers-details.png)
 
 

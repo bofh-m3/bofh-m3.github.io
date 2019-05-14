@@ -149,8 +149,11 @@ Row 46-49 deals with the desired outcome, namely all jobs having run successfull
 
 #### Result
 Here's how the detector would look in the UI with one failed job, and one job that has not run within the set amount of hours.
+
 ![Detector veeam overview](/assets/images/detector-veeam-overview.png)
+
 And if you click the headline you get the details of the events including the VMs that have failed and why.
+
 ![Detector veeam details](/assets/images/detector-veeam-details.png)
 
 

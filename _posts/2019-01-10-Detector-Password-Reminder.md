@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CURE - Password Reminder"
+title: "CURE - Detector Password Reminder"
 excerpt: "CURE - The homebrewed monitoring solution. In this post I'll describe the steps for setting up a detector monitoring our homebrewed Password Reminder solution."
 date: 2019-01-10
 comments: true
@@ -174,8 +174,11 @@ In the *ANALYZE* section of the script, on rows 4-7 I collect the history for th
 
 #### Result
 Here's how the detector would look in the UI with a warning.
+
 ![Detector password reminder overview](/assets/images/detector-password-reminder-overview.png)
+
 And if you click the headline you get the details of notifications that was sent.
+
 ![Detector password reminder details](/assets/images/detector-password-reminder-details.png)
 
 

@@ -23,7 +23,9 @@ I myself would love a future where my team could focus all resources on providin
 I envision leading an IT department that is truly able to deliver without external help (except for the actual cloud providers of course), and not having to worry about keeping up to date with the latest firmware releases and vulnerabilities, maintaining deep knowledge on specific compute, storage and network equipment. 
 But especially, I truly believe that the company would be able to find new business opportunities if we were to go full cloud.
 We have most of the components in place to take the step.
+
 ![Cloud native meme](/assets/images/cloud-native-meme.jpg)
+
 What's stopping us?
 
 ## Attitude

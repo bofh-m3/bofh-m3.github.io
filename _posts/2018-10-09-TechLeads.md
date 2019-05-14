@@ -57,7 +57,9 @@ I hosted the Stockholm session, since it's my home turf, and gathered all of the
 The theme for the meet-up was **alignment**. At the time I kind of thought it to be a waste of time, but in hindsight I've come to realize it was necessary. 
 The alignment manifested itself in us, the group, doing a *slider exercise* where we were to, individually, mark our selves on a white board, plotting out where we considered ourselves on the scale as of now, and how we wanted to be positioned in the future. 
 We first spent an hour or so deciding on what opposites to use on the scales, and this is the end result.
+
 ![TechLeads barometer](/assets/images/TechLeads-barometer.png)
+
 The green dots represent the average on where we considered ourselves today, and the blue dots represent the average of where we want to be in the future. On average, as a group. On some of the rulers our individual dots were very dispersed and on others they were very collected.
 However, we all had the same *direction*, we all wanted to move similarly, which really became an eye-opener for us, and boosted us with energy to actually take some decisions and put down some actions.
 But time had ran out for this meeting, and the only action I can remember, was to assign one of us (the Swedish CTO drew the shortest straw) to send to Oslo the upcoming week to present on the Groups work so far in front of NMT, Nordic Management Team, the highest governing body within the organization. Of course, the Norway tech leads was gonna join the presentation, but since the Norway branch had no CTO at the time, we felt someone from another branch needed to be onsite to speak for the group.
