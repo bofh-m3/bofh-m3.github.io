@@ -23,7 +23,7 @@ CURE - The homebrewed monitoring solution. Read more about it in my previous pos
 - [CURE-GUI](/CURE-GUI.html)
 
 #### Background
-As [covered](/3PAR.html) in a previous, 3PAR is used for production storage in the company. Therefore, I of course wanted to monitor it! In our case we have two, one in Oslo and one in Stockholm.
+As [covered](/3Par.html) previously, 3PAR is used for production storage in the company. Therefore, I of course wanted to monitor it! In our case we have two, one in Oslo and one in Stockholm.
 I will describe the steps I did for setting up a CURE detector for 3PAR based on the *DetectorTeamplate.ps1* described in [CURE-Detector foundation](/CURE-Detector-foundation.html) and the instructions in [CURE-Detector-step-by-step](/CURE-Detector-step-by-step.html).
 The whole detector script can be found [here](https://github.com/bofh-m3/CURE/blob/master/Detectors/3Par.ps1)
 
