@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BOFH-M3"
+title                    : "BOFH-M3, automate the world"
 title_separator          : "-"
 name                     : Martin Ljungberg
-description              : A blog about the everyday life of an IT pro turned manager.
+description              : A blog on being an IT manager and trying to automate the world.
 url                      : bofh-m3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : bofh-m3/bofh-m3.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,11 +103,7 @@ analytics:
 author:
   name             : Martin Ljungberg
   avatar           : /assets/images/bofh-m3.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-<<<<<<< HEAD
-  bio              : IT Manager with milage. Interested in automation, leadership and infrastructure.
-=======
   bio              : IT Manager with a long career in the field. Interested in team building, leadership, automation.
->>>>>>> ce8bebdd379b1b9fc82146a7608ee29fd11a447c
   location         : Stockholm, Sweden
   email            :
   uri              :
